@@ -36,3 +36,63 @@
     transform: rotate(360deg);
   }
 }
+
+.img1{ background-image: url(../public/img/1-home.jpg);
+        background-position: center;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+}
+
+.img2{ background-image: url(../public/img/7-home.jpg);
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+
+}
+
+
+.h50{height: 50px;}
+.h60{height: 60px;}
+.h70{height: 70px;}
+.h80{height: 80px;}
+.h90{height: 90px;}
+.h100{height: 100px;}
+.h120{height: 120px;}
+.h130{height: 130px;}
+.h140{height: 140px;}
+.h200{height: 200px;}
+.h220{height: 220px;}
+.h240{height: 240px;}
+
+.h250{height: 250px;}
+.h300{height: 300px;}
+.h350{height: 350px;}
+.h400{height: 400px;}
+.h10{height: 20px; width: 20px; }
+
+
+
+
+.fs18{font-size: 18px;}
+.fs16{font-size: 16px;}
+.fs25{font-size: 25px;}
+
+
+
+
+.bg-ow{background: #ded8d89a;}
+.bg-g{background: #137547;}
+.bg-g:hover {background-color: #112d15; transition: 0.5s;}
+.bg-dg:hover {background-color: #112d15; color: white; transition: 0.8s;}
+
+.bg-dgr:hover {background-color: #112d15; color: white; transition: 0.8s; border: none;}
+
+
+.bg-lg{background: #137547;}
+.bg-lg:hover{background: #137547af; transition: 0.8s;}
+
+.bg-t {background-color: rgba(255, 255, 255, 0);} 
+.bg-t {background-color: rgba(255, 255, 255, 0.085);}
+
+.clg{color:  #0f3625;}
