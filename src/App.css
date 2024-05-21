@@ -52,6 +52,36 @@
 }
 
 
+.img3{ background-image: url(../public/img/1-about.jpg);
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+
+.img4{ background-image: url(../public/img/1-services.jpg);
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.img5{ background-image: url(../public/img/2-services.jpg);
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.img6{ background-image: url(../public/img/1-contact.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.h10{height: 10px;}
+.h20{height: 20px;}
+.h30{height: 30px;}
+.h40{height: 40px;}
 .h50{height: 50px;}
 .h60{height: 60px;}
 .h70{height: 70px;}
@@ -61,6 +91,12 @@
 .h120{height: 120px;}
 .h130{height: 130px;}
 .h140{height: 140px;}
+.h150{height: 150px;}
+.h160{height: 160px;}
+.h170{height: 170px;}
+
+.h180{height: 180px;}
+
 .h200{height: 200px;}
 .h220{height: 220px;}
 .h240{height: 240px;}
@@ -74,16 +110,29 @@
 
 
 
-.fs18{font-size: 18px;}
+
+.fs10{font-size: 10px;}
+.fs11{font-size: 11px;}
+.fs12{font-size: 12px;}
+.fs13{font-size: 13px;}
+.fs14{font-size: 14px;}
+.fs15{font-size: 15px;}
 .fs16{font-size: 16px;}
+.fs17{font-size: 17px;}
+.fs18{font-size: 18px;}
+.fs20{font-size: 20px;}
+.fs21{font-size: 21px;}
+.fs22{font-size: 22px;}
+.fs23{font-size: 23px;}
+.fs24{font-size: 24px;}
 .fs25{font-size: 25px;}
+.fs26{font-size: 26px;}
 
+.bo-ra{height: 50px; width: 50px; border-radius: 50%;}
 
-
-
-.bg-ow{background: #ded8d89a;}
+.bg-ow{background: #eaf3ee;}
 .bg-g{background: #137547;}
-.bg-g:hover {background-color: #112d15; transition: 0.5s;}
+.bg-g:hover {background-color: #112d15; transition: 0.5s; border: none; }
 .bg-dg:hover {background-color: #112d15; color: white; transition: 0.8s;}
 
 .bg-dgr:hover {background-color: #112d15; color: white; transition: 0.8s; border: none;}
@@ -94,5 +143,7 @@
 
 .bg-t {background-color: rgba(255, 255, 255, 0);} 
 .bg-t {background-color: rgba(255, 255, 255, 0.085);}
+
+.t-d { text-decoration: none;}
 
 .clg{color:  #0f3625;}
